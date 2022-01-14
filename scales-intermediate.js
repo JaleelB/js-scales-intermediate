@@ -1,3 +1,4 @@
+//JALEEL BENNETT
 
 /**
  * @param {array<number>} numbers - an array of numbers
